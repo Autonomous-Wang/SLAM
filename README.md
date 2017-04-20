@@ -1,4 +1,4 @@
-# self-driving
+# SLAM
 this folder mainly includes some python code on SLAM simulation of a bicycle model robot from a starting point to a defined destination. The file SLAM.py combine particle filter, path search, PID controller and bicycle model robot together. Other python files containes some individual problem, such kalman filter, particle filter and etc.
 
 1. path search:
